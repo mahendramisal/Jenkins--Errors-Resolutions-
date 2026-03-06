@@ -140,16 +140,7 @@ How to fix it:
 - Clean workspaces regularly.
 - Expand disk if needed.
 
-# (9) "ERROR: Unable to find Jenkinsfile"
 
-What it is:
-- Jenkins cannot locate the Jenkinsfile in the repository.
-
-Possible causes:
-- Jenkinsfile not present.
-- Wrong folder structure.
-- Wrong branch selected.
-- File name typo.
 
 How to fix it:
 - Ensure Jenkinsfile is committed.
